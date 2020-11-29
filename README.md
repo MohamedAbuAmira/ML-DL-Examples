@@ -1,6 +1,7 @@
 # ML-DL-Examples
 Here a lot of different deep learning examples
 
+
 ## Object Detection and Segmentation
 - [Mask-RCNN](https://github.com/MohamedAbuAmira/ML-DL-Examples/blob/master/Mask_R_CNN_demo.ipynb)
 ![image](https://github.com/MohamedAbuAmira/ML-DL-Examples/raw/master/Attachments/10.png)
@@ -17,4 +18,7 @@ Here a lot of different deep learning examples
 - [YOLOv4 Training](https://github.com/MohamedAbuAmira/ML-DL-Examples/blob/master/Copy_of_YOLOv4_Training_Tutorial.ipynb)
 - [Youtube video with object segmantation using YOLO](https://www.youtube.com/watch?v=--f_kfNnggQ)
 - [object detection with TF hub model](https://github.com/MohamedAbuAmira/ML-DL-Examples/blob/master/object_detection_with_TF_hub_model.ipynb)
+
 ## Image Classification
+- [Chest X-Ray classifier](https://github.com/MohamedAbuAmira/ML-DL-Examples/blob/master/CNN_model_Chest_X_Ray_classifier_(Pneumonia).ipynb): [Colab](https://colab.research.google.com/github/MohamedAbuAmira/ML-DL-Examples/blob/master/CNN_model_Chest_X_Ray_classifier_(Pneumonia).ipynb)
+- [classify images of clothing](https://github.com/MohamedAbuAmira/ML-DL-Examples/blob/master/CNN_model_to_classify_images_of_clothing_.ipynb): [Colab](https://colab.research.google.com/github/MohamedAbuAmira/ML-DL-Examples/blob/master/CNN_model_to_classify_images_of_clothing_.ipynb)
